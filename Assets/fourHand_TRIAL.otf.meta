@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 276077d976663564cab97863aa683c6c
+timeCreated: 1490275872
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: fourHand_TRIAL
+  fontNames:
+  - fourHand_TRIAL
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,60 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940M (ID=0x1347)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   20.19.15.4624
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\POLINEMA\SEMESTER 4\MM Terapan p. Kadek\TUGAS\Kuis Multimedia\Cat Catch the Star\dog_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\POLINEMA\SEMESTER 4\MM Terapan p. Kadek\TUGAS\Kuis Multimedia\Cat Catch the Star\dog_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\POLINEMA\SEMESTER 4\MM Terapan p. Kadek\TUGAS\Kuis Multimedia\Cat Catch the Star\dog_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\POLINEMA\SEMESTER 4\MM Terapan p. Kadek\TUGAS\Kuis Multimedia\Cat Catch the Star\dog_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\POLINEMA\SEMESTER 4\MM Terapan p. Kadek\TUGAS\Kuis Multimedia\Cat Catch the Star\dog_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\POLINEMA\SEMESTER 4\MM Terapan p. Kadek\TUGAS\Kuis Multimedia\Cat Catch the Star\dog_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\POLINEMA\SEMESTER 4\MM Terapan p. Kadek\TUGAS\Kuis Multimedia\Cat Catch the Star\dog_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\POLINEMA\SEMESTER 4\MM Terapan p. Kadek\TUGAS\Kuis Multimedia\Cat Catch the Star\dog_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\POLINEMA\SEMESTER 4\MM Terapan p. Kadek\TUGAS\Kuis Multimedia\Cat Catch the Star\dog_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\POLINEMA\SEMESTER 4\MM Terapan p. Kadek\TUGAS\Kuis Multimedia\Cat Catch the Star\dog_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  1.458 seconds
+Platform assembly: D:\POLINEMA\SEMESTER 4\MM Terapan p. Kadek\TUGAS\Kuis Multimedia\Cat Catch the Star\dog_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\POLINEMA\SEMESTER 4\MM Terapan p. Kadek\TUGAS\Kuis Multimedia\Cat Catch the Star\dog_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.528384 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.214677 ms
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 297.
+Total: 0.681137 ms (FindLiveObjects: 0.072779 ms CreateObjectMapping: 0.068113 ms MarkObjects: 0.397019 ms  DeleteObjects: 0.141359 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SliderValueToText.ShowSliderValue () [0x00000] in <filename unknown>:0 
+  at SliderValueToText.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.737587 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 354.
+Total: 0.473996 ms (FindLiveObjects: 0.061582 ms CreateObjectMapping: 0.048519 ms MarkObjects: 0.343367 ms  DeleteObjects: 0.018194 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.421990 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 864.
+Total: 0.961523 ms (FindLiveObjects: 0.154888 ms CreateObjectMapping: 0.104036 ms MarkObjects: 0.542577 ms  DeleteObjects: 0.157221 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.726169 ms
+
+Unloading 107 unused Assets to reduce memory usage. Loaded Objects now: 354.
+Total: 0.783774 ms (FindLiveObjects: 0.059249 ms CreateObjectMapping: 0.046653 ms MarkObjects: 0.393286 ms  DeleteObjects: 0.283651 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: ba4 -> priority: 1 
